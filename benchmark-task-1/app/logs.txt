@@ -1,0 +1,8 @@
+2026-10-01 10:00:01 INFO user=ali action=login
+2026-10-01 10:00:05 ERROR user=sara action=upload
+2026-10-01 10:01:12 INFO user=ali action=logout
+CORRUPTED LINE ### @@@
+2026-10-01 10:02:30 ERROR user=ali action=upload
+oops
+2026-10-01 10:03:00 WARN user=bilal action=login
+2026-10-01 10:03:45 ERROR user=sara action=download
